@@ -1,0 +1,28 @@
+E:\Grading System1\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+E:\Grading System1\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+E:\Grading System1\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+E:\Grading System1\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+E:\Grading System1\WindowsApplication3\obj\x86\Debug\GradingSystem.vbprojResolveAssemblyReference.cache
+E:\Grading System1\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form1.resources
+E:\Grading System1\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form2.resources
+E:\Grading System1\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form3.resources
+E:\Grading System1\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form4.resources
+E:\Grading System1\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Resources.resources
+E:\Grading System1\WindowsApplication3\obj\x86\Debug\GradingSystem.vbproj.GenerateResource.Cache
+E:\Grading System1\WindowsApplication3\obj\x86\Debug\WindowsApplication3.exe
+E:\Grading System1\WindowsApplication3\obj\x86\Debug\WindowsApplication3.xml
+E:\Grading System1\WindowsApplication3\obj\x86\Debug\WindowsApplication3.pdb
+C:\Users\Daezy\Desktop\New folder\SFSTS\OJT Installers\SFSTS - Grading System\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+C:\Users\Daezy\Desktop\New folder\SFSTS\OJT Installers\SFSTS - Grading System\WindowsApplication3\obj\x86\Debug\WindowsApplication3.exe
+C:\Users\Daezy\Desktop\New folder\SFSTS\OJT Installers\SFSTS - Grading System\WindowsApplication3\obj\x86\Debug\WindowsApplication3.xml
+C:\Users\Daezy\Desktop\New folder\SFSTS\OJT Installers\SFSTS - Grading System\WindowsApplication3\obj\x86\Debug\WindowsApplication3.pdb
+C:\Users\Daezy\Desktop\New folder\SFSTS\OJT Installers\SFSTS - Grading System\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+C:\Users\Daezy\Desktop\New folder\SFSTS\OJT Installers\SFSTS - Grading System\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+C:\Users\Daezy\Desktop\New folder\SFSTS\OJT Installers\SFSTS - Grading System\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+C:\Users\Daezy\Desktop\New folder\SFSTS\OJT Installers\SFSTS - Grading System\WindowsApplication3\obj\x86\Debug\GradingSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Daezy\Desktop\New folder\SFSTS\OJT Installers\SFSTS - Grading System\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form1.resources
+C:\Users\Daezy\Desktop\New folder\SFSTS\OJT Installers\SFSTS - Grading System\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form2.resources
+C:\Users\Daezy\Desktop\New folder\SFSTS\OJT Installers\SFSTS - Grading System\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form3.resources
+C:\Users\Daezy\Desktop\New folder\SFSTS\OJT Installers\SFSTS - Grading System\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form4.resources
+C:\Users\Daezy\Desktop\New folder\SFSTS\OJT Installers\SFSTS - Grading System\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Resources.resources
+C:\Users\Daezy\Desktop\New folder\SFSTS\OJT Installers\SFSTS - Grading System\WindowsApplication3\obj\x86\Debug\GradingSystem.vbproj.GenerateResource.Cache

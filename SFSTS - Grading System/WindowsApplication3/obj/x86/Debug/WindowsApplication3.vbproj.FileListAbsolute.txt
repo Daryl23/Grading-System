@@ -1,0 +1,74 @@
+c:\users\daezy\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+c:\users\daezy\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+c:\users\daezy\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+c:\users\daezy\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+c:\users\daezy\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\daezy\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form1.resources
+c:\users\daezy\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Resources.resources
+c:\users\daezy\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\daezy\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\daezy\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.exe
+c:\users\daezy\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.xml
+c:\users\daezy\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.pdb
+C:\Users\Daezy\Documents\Visual Studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form2.resources
+L:\Grading System\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+L:\Grading System\WindowsApplication3\obj\x86\Debug\WindowsApplication3.exe
+L:\Grading System\WindowsApplication3\obj\x86\Debug\WindowsApplication3.xml
+L:\Grading System\WindowsApplication3\obj\x86\Debug\WindowsApplication3.pdb
+L:\Grading System\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+L:\Grading System\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+L:\Grading System\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+L:\Grading System\WindowsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\Grading System\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form1.resources
+L:\Grading System\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form2.resources
+L:\Grading System\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Resources.resources
+L:\Grading System\WindowsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\Grading System\WindowsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\Grading System1\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+L:\Grading System1\WindowsApplication3\obj\x86\Debug\WindowsApplication3.exe
+L:\Grading System1\WindowsApplication3\obj\x86\Debug\WindowsApplication3.xml
+L:\Grading System1\WindowsApplication3\obj\x86\Debug\WindowsApplication3.pdb
+L:\Grading System1\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+L:\Grading System1\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+L:\Grading System1\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+L:\Grading System1\WindowsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\Grading System1\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form1.resources
+L:\Grading System1\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form2.resources
+L:\Grading System1\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form3.resources
+L:\Grading System1\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Resources.resources
+L:\Grading System1\WindowsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\Grading System1\WindowsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\Grading System1\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form4.resources
+C:\Users\Daezy\Desktop\Grading System1\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+C:\Users\Daezy\Desktop\Grading System1\WindowsApplication3\obj\x86\Debug\WindowsApplication3.exe
+C:\Users\Daezy\Desktop\Grading System1\WindowsApplication3\obj\x86\Debug\WindowsApplication3.xml
+C:\Users\Daezy\Desktop\Grading System1\WindowsApplication3\obj\x86\Debug\WindowsApplication3.pdb
+C:\Users\Daezy\Desktop\Grading System1\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+C:\Users\Daezy\Desktop\Grading System1\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+C:\Users\Daezy\Desktop\Grading System1\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+C:\Users\Daezy\Desktop\Grading System1\WindowsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daezy\Desktop\Grading System1\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form1.resources
+C:\Users\Daezy\Desktop\Grading System1\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form2.resources
+C:\Users\Daezy\Desktop\Grading System1\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form3.resources
+C:\Users\Daezy\Desktop\Grading System1\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form4.resources
+C:\Users\Daezy\Desktop\Grading System1\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Resources.resources
+C:\Users\Daezy\Desktop\Grading System1\WindowsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Daezy\Desktop\Grading System1\WindowsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Grading System1\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+E:\Grading System1\WindowsApplication3\obj\x86\Debug\WindowsApplication3.exe
+E:\Grading System1\WindowsApplication3\obj\x86\Debug\WindowsApplication3.xml
+E:\Grading System1\WindowsApplication3\obj\x86\Debug\WindowsApplication3.pdb
+E:\Grading System1\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+E:\Grading System1\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+E:\Grading System1\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+E:\Grading System1\WindowsApplication3\obj\x86\Debug\WindowsApplication3.vbprojResolveAssemblyReference.cache
+E:\Grading System1\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form1.resources
+E:\Grading System1\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form2.resources
+E:\Grading System1\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form3.resources
+E:\Grading System1\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form4.resources
+E:\Grading System1\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Resources.resources
+E:\Grading System1\WindowsApplication3\obj\x86\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+F:\Grading System1\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+F:\Grading System1\WindowsApplication3\obj\x86\Debug\WindowsApplication3.exe
+F:\Grading System1\WindowsApplication3\obj\x86\Debug\WindowsApplication3.xml
+F:\Grading System1\WindowsApplication3\obj\x86\Debug\WindowsApplication3.pdb
